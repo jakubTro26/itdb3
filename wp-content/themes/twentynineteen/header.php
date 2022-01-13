@@ -50,4 +50,4 @@
 			<?php endif; ?>
 		</header><!-- #masthead -->
 
-	<div id="content" class="site-content">
+	<div id="content" class="site-content a">
