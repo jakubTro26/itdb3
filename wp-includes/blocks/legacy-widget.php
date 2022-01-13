@@ -111,7 +111,7 @@ function handle_legacy_widget_preview_iframe() {
 		</style>
 	</head>
 	<body <?php body_class(); ?>>
-		<div id="page" class="site">
+		<div id="page" class="site c">
 			<div id="content" class="site-content">
 				<?php
 				$registry = WP_Block_Type_Registry::get_instance();
