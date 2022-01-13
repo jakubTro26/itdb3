@@ -101,6 +101,8 @@ if ( wp_using_themes() ) {
 	 *
 	 * @param string $template The path of the template to include.
 	 */
+
+	 echo 'kuba';
 	$template = apply_filters( 'template_include', $template );
 	if ( $template ) {
 		include $template;
