@@ -24,7 +24,7 @@
 		</header><!-- .entry-header -->
 	<?php endif; ?>
 
-	<div class="entry-content">
+	<div class="entry-content j">
 		<?php
 		the_content();
 

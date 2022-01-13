@@ -18,7 +18,7 @@
 	</header>
 	<?php endif; ?>
 
-	<div class="entry-content">
+	<div class="entry-content d">
 		<?php
 		the_content(
 			sprintf(
